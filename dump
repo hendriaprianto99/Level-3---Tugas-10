@@ -1,0 +1,1 @@
+INSERT INTO `produk` (`id`, `nama_produk`, `keterangan`, `harga`, `jumlah`) VALUES (NULL, 'Init', 'Init Produk', '10000', '10'), (NULL, 'Test Produk', 'Test Produk', '20000', '10');
